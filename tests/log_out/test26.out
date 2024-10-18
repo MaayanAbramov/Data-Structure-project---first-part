@@ -1,0 +1,442 @@
+add_country: SUCCESS
+add_country: SUCCESS
+add_country: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+play_match: FAILURE
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: FAILURE
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832897
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+remove_contestant_from_team: SUCCESS
+get_medals: SUCCESS, 6280837
+play_match: INVALID_INPUT
+add_team: SUCCESS
+play_match: INVALID_INPUT
+play_match: FAILURE
+play_match: SUCCESS
+get_medals: SUCCESS, 3832897
+play_match: INVALID_INPUT
+play_match: FAILURE
+get_medals: SUCCESS, 7049027
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: FAILURE
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 7049029
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832897
+get_medals: SUCCESS, 6280838
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 6280838
+play_match: FAILURE
+play_match: SUCCESS
+get_medals: SUCCESS, 3832897
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832897
+get_medals: SUCCESS, 6280838
+play_match: SUCCESS
+add_team: SUCCESS
+remove_contestant_from_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant: SUCCESS
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 6280839
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+remove_contestant_from_team: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+play_match: INVALID_INPUT
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+get_medals: SUCCESS, 3832897
+play_match: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: INVALID_INPUT
+add_team: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 3832898
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 6280839
+play_match: INVALID_INPUT
+remove_contestant_from_team: SUCCESS
+get_medals: SUCCESS, 6280839
+play_match: SUCCESS
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 7049037
+play_match: INVALID_INPUT
+play_match: SUCCESS
+get_medals: SUCCESS, 7049037
+add_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+remove_contestant_from_team: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832898
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 3832898
+add_team: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 7049040
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 3832898
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 7049044
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 7049044
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: INVALID_INPUT
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 7049046
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+get_medals: SUCCESS, 6280840
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 7049046
+add_team: SUCCESS
+get_medals: SUCCESS, 7049046
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 7049046
+play_match: SUCCESS
+get_medals: SUCCESS, 7049046
+play_match: SUCCESS
+play_match: INVALID_INPUT
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 6280840
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 6280840
+get_medals: SUCCESS, 3832900
+play_match: SUCCESS
+add_team: SUCCESS
+get_medals: SUCCESS, 6280840
+get_medals: SUCCESS, 7049048
+play_match: FAILURE
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 7049049
+get_medals: SUCCESS, 6280841
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 6280842
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 3832901
+add_contestant_to_team: FAILURE
+get_medals: SUCCESS, 7049052
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+get_medals: SUCCESS, 7049052
+get_medals: SUCCESS, 3832901
+play_match: INVALID_INPUT
+play_match: INVALID_INPUT
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 7049052
+play_match: SUCCESS
+get_medals: SUCCESS, 6280843
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832901
+play_match: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 7049053
+play_match: SUCCESS
+add_contestant: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: INVALID_INPUT
+play_match: SUCCESS
+play_match: FAILURE
+add_contestant_to_team: SUCCESS
+remove_contestant_from_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: INVALID_INPUT
+play_match: SUCCESS
+add_contestant: SUCCESS
+play_match: INVALID_INPUT
+play_match: INVALID_INPUT
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 3832901
+play_match: SUCCESS
+get_medals: SUCCESS, 7049057
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 6280845
+play_match: SUCCESS
+play_match: FAILURE
+get_medals: SUCCESS, 7049057
+get_medals: SUCCESS, 7049057
+get_medals: SUCCESS, 7049057
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 7049058
+add_team: SUCCESS
+add_contestant_to_team: FAILURE
+add_contestant_to_team: SUCCESS
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 3832901
+get_medals: SUCCESS, 6280845
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 6280845
+play_match: SUCCESS
+get_medals: SUCCESS, 6280845
+play_match: INVALID_INPUT
+play_match: SUCCESS
+play_match: INVALID_INPUT
+play_match: INVALID_INPUT
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 7049059
+play_match: INVALID_INPUT
+add_contestant_to_team: SUCCESS
+add_contestant: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 7049059
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 6280849
+play_match: SUCCESS
+get_medals: SUCCESS, 3832901
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 6280849
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 3832902
+play_match: SUCCESS
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832902
+remove_contestant_from_team: SUCCESS
+play_match: SUCCESS
+remove_contestant_from_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+play_match: INVALID_INPUT
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832902
+get_medals: SUCCESS, 3832902
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 6280851
+add_team: SUCCESS
+add_contestant: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 3832903
+play_match: INVALID_INPUT
+add_contestant: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 6280851
+get_medals: SUCCESS, 7049066
+play_match: SUCCESS
+get_medals: SUCCESS, 6280851
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832903
+add_contestant_to_team: SUCCESS
+add_contestant: SUCCESS
+play_match: SUCCESS
+add_team: SUCCESS
+get_medals: SUCCESS, 7049066
+add_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: INVALID_INPUT
+remove_contestant_from_team: SUCCESS
+play_match: INVALID_INPUT
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 3832903
+get_medals: SUCCESS, 3832903
+add_contestant: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+add_team: SUCCESS
+add_contestant: SUCCESS
+play_match: FAILURE
+add_team: SUCCESS
+add_contestant_to_team: SUCCESS
+add_contestant_to_team: SUCCESS
+play_match: INVALID_INPUT
+add_team: SUCCESS
+add_contestant_to_team: FAILURE
+get_medals: SUCCESS, 6280852
+play_match: SUCCESS
+play_match: FAILURE
+get_medals: SUCCESS, 7049066
+add_contestant_to_team: SUCCESS
+play_match: SUCCESS
+play_match: FAILURE
+get_medals: SUCCESS, 3832903
+play_match: FAILURE
+get_medals: SUCCESS, 3832903
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+remove_contestant_from_team: FAILURE
+play_match: SUCCESS
+add_team: SUCCESS
+play_match: SUCCESS
+play_match: SUCCESS
+play_match: INVALID_INPUT
+get_medals: SUCCESS, 7049070
+add_team: SUCCESS
+get_medals: SUCCESS, 7049070
+play_match: SUCCESS
+add_contestant: SUCCESS
+play_match: SUCCESS
+get_medals: SUCCESS, 3832903
+play_match: SUCCESS
+get_medals: SUCCESS, 6280856
+get_medals: SUCCESS, 6280856
+add_contestant_to_team: FAILURE
+play_match: SUCCESS
+add_team: SUCCESS
+get_medals: SUCCESS, 6280856
+add_contestant_to_team: FAILURE
+get_medals: SUCCESS, 3832903
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS
+get_medals: SUCCESS, 7049072
+play_match: SUCCESS
+add_contestant_to_team: SUCCESS

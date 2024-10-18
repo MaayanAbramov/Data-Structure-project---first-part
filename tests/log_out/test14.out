@@ -1,0 +1,459 @@
+add_country: SUCCESS
+add_contestant: SUCCESS
+add_country: SUCCESS
+add_contestant: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 3101147
+get_strength: FAILURE
+get_medals: FAILURE
+add_country: SUCCESS
+add_country: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 6271262
+get_medals: SUCCESS, 6271262
+get_strength: SUCCESS, 1655122
+get_medals: INVALID_INPUT
+get_medals: INVALID_INPUT
+get_strength: INVALID_INPUT
+get_strength: SUCCESS, 557056
+get_medals: SUCCESS, 4665208
+get_medals: INVALID_INPUT
+get_strength: SUCCESS, 1655122
+get_strength: SUCCESS, 1655122
+get_strength: SUCCESS, 1655122
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 4665208
+get_strength: SUCCESS, 1655122
+get_medals: SUCCESS, 3101147
+get_strength: INVALID_INPUT
+add_country: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: INVALID_INPUT
+get_medals: SUCCESS, 2250906
+add_country: SUCCESS
+get_strength: SUCCESS, 3433788
+get_medals: INVALID_INPUT
+add_contestant: SUCCESS
+get_strength: INVALID_INPUT
+get_medals: FAILURE
+get_medals: INVALID_INPUT
+add_contestant: SUCCESS
+get_strength: SUCCESS, 557056
+get_strength: SUCCESS, 9189196
+get_strength: INVALID_INPUT
+get_medals: FAILURE
+get_strength: SUCCESS, 557056
+add_country: SUCCESS
+add_contestant: SUCCESS
+add_country: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 3549037
+add_contestant: SUCCESS
+add_country: SUCCESS
+add_country: SUCCESS
+add_country: SUCCESS
+get_medals: SUCCESS, 3101147
+get_medals: SUCCESS, 3101147
+get_strength: SUCCESS, 3927416
+get_medals: SUCCESS, 8038718
+get_medals: SUCCESS, 980132
+get_strength: SUCCESS, 7492261
+get_strength: SUCCESS, 3549037
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: INVALID_INPUT
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+add_country: SUCCESS
+add_contestant: SUCCESS
+get_strength: SUCCESS, 7492261
+get_medals: INVALID_INPUT
+add_country: SUCCESS
+add_country: SUCCESS
+get_strength: SUCCESS, 3927416
+add_country: SUCCESS
+add_contestant: SUCCESS
+get_strength: SUCCESS, 3927416
+add_contestant: SUCCESS
+get_medals: SUCCESS, 980132
+get_medals: SUCCESS, 8038718
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 4665208
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_medals: INVALID_INPUT
+add_country: SUCCESS
+add_country: SUCCESS
+get_strength: INVALID_INPUT
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_strength: SUCCESS, 5733607
+get_medals: SUCCESS, 5098029
+get_strength: SUCCESS, 3927416
+get_medals: SUCCESS, 980132
+get_strength: FAILURE
+add_country: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: INVALID_INPUT
+add_country: SUCCESS
+get_medals: SUCCESS, 6271262
+add_contestant: SUCCESS
+get_medals: SUCCESS, 2397780
+add_country: SUCCESS
+get_medals: SUCCESS, 2397780
+get_strength: FAILURE
+get_strength: SUCCESS, 4531238
+get_strength: SUCCESS, 557056
+get_strength: SUCCESS, 2106000
+get_medals: FAILURE
+add_country: SUCCESS
+get_medals: SUCCESS, 6271262
+get_medals: SUCCESS, 6271262
+add_country: SUCCESS
+get_strength: SUCCESS, 9233779
+get_medals: SUCCESS, 9433168
+add_contestant: SUCCESS
+get_medals: SUCCESS, 4167979
+get_medals: SUCCESS, 5098029
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_strength: FAILURE
+get_strength: SUCCESS, 2371412
+get_medals: SUCCESS, 6775660
+add_contestant: SUCCESS
+get_strength: SUCCESS, 2106000
+get_strength: FAILURE
+get_medals: FAILURE
+add_country: SUCCESS
+get_strength: INVALID_INPUT
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 9433168
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: INVALID_INPUT
+get_strength: SUCCESS, 7710011
+get_strength: SUCCESS, 557056
+get_medals: FAILURE
+get_strength: SUCCESS, 3617652
+add_country: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 6153620
+get_strength: SUCCESS, 1811154
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_medals: SUCCESS, 8038718
+get_strength: SUCCESS, 840710
+add_contestant: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_strength: SUCCESS, 911013
+add_country: SUCCESS
+get_medals: INVALID_INPUT
+get_medals: SUCCESS, 4167979
+get_strength: SUCCESS, 8174482
+get_medals: SUCCESS, 8462105
+get_medals: SUCCESS, 6775660
+get_medals: SUCCESS, 8898921
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+add_country: SUCCESS
+get_medals: SUCCESS, 2585014
+get_strength: SUCCESS, 3927416
+add_country: SUCCESS
+get_strength: SUCCESS, 6374709
+add_contestant: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: INVALID_INPUT
+get_strength: SUCCESS, 3549037
+get_strength: SUCCESS, 9189196
+get_medals: FAILURE
+get_medals: FAILURE
+add_country: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: FAILURE
+add_country: SUCCESS
+get_medals: SUCCESS, 9276600
+get_medals: FAILURE
+get_medals: FAILURE
+add_country: SUCCESS
+add_country: SUCCESS
+get_medals: SUCCESS, 2250906
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 2585014
+get_strength: SUCCESS, 3549037
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_medals: SUCCESS, 8038718
+get_strength: SUCCESS, 8174482
+get_strength: SUCCESS, 2371412
+get_medals: SUCCESS, 8038718
+get_strength: FAILURE
+get_medals: SUCCESS, 2585014
+add_country: SUCCESS
+add_country: SUCCESS
+add_country: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: INVALID_INPUT
+get_medals: SUCCESS, 7420217
+get_medals: INVALID_INPUT
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 9233779
+get_strength: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 1655122
+get_strength: SUCCESS, 4531238
+add_country: SUCCESS
+get_medals: SUCCESS, 7687282
+get_strength: INVALID_INPUT
+get_strength: SUCCESS, 9233779
+add_country: SUCCESS
+get_strength: SUCCESS, 3927416
+add_contestant: SUCCESS
+get_medals: SUCCESS, 5098029
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 4031474
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_strength: FAILURE
+add_contestant: SUCCESS
+get_strength: SUCCESS, 2849045
+get_medals: SUCCESS, 6702029
+get_strength: SUCCESS, 5733607
+get_medals: SUCCESS, 2250906
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 6702029
+get_strength: SUCCESS, 6939057
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 4531238
+get_medals: SUCCESS, 2118481
+get_medals: SUCCESS, 6153620
+get_strength: SUCCESS, 5163593
+get_strength: SUCCESS, 3433788
+get_medals: SUCCESS, 3099889
+get_medals: SUCCESS, 6775660
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_strength: SUCCESS, 2240511
+get_strength: SUCCESS, 3617652
+get_medals: SUCCESS, 980132
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 2397780
+add_country: SUCCESS
+add_country: SUCCESS
+get_strength: INVALID_INPUT
+get_medals: INVALID_INPUT
+get_medals: SUCCESS, 4665208
+get_medals: SUCCESS, 9801292
+get_medals: SUCCESS, 9695964
+get_strength: SUCCESS, 7653791
+get_strength: INVALID_INPUT
+get_strength: FAILURE
+get_medals: SUCCESS, 7534093
+add_contestant: SUCCESS
+get_strength: INVALID_INPUT
+add_country: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_strength: INVALID_INPUT
+get_strength: SUCCESS, 2240511
+get_strength: SUCCESS, 6057544
+get_medals: SUCCESS, 3101147
+add_country: SUCCESS
+get_strength: SUCCESS, 2849045
+get_strength: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: SUCCESS, 3099889
+add_contestant: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: SUCCESS, 992518
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: INVALID_INPUT
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_strength: SUCCESS, 4392061
+add_contestant: SUCCESS
+add_country: SUCCESS
+add_contestant: SUCCESS
+get_strength: SUCCESS, 2371412
+get_strength: SUCCESS, 4031474
+get_strength: SUCCESS, 1849490
+get_medals: SUCCESS, 9695964
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 2371412
+get_strength: SUCCESS, 6057544
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_medals: SUCCESS, 3822587
+get_medals: SUCCESS, 2286420
+add_country: SUCCESS
+get_strength: SUCCESS, 8174482
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 7119626
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_strength: SUCCESS, 9233779
+get_medals: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: FAILURE
+add_country: SUCCESS
+get_medals: FAILURE
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: FAILURE
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 7653791
+get_strength: FAILURE
+get_medals: SUCCESS, 7536316
+get_medals: SUCCESS, 2118481
+add_contestant: SUCCESS
+get_strength: SUCCESS, 9906393
+add_country: SUCCESS
+get_medals: SUCCESS, 9801292
+get_strength: SUCCESS, 7779390
+add_country: SUCCESS
+get_strength: SUCCESS, 3802104
+add_country: SUCCESS
+add_contestant: SUCCESS
+get_strength: SUCCESS, 5251032
+add_country: SUCCESS
+get_medals: SUCCESS, 4167979
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_strength: SUCCESS, 9866039
+get_medals: SUCCESS, 1798993
+get_strength: SUCCESS, 9606938
+get_medals: SUCCESS, 4167979
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: SUCCESS, 804303
+get_medals: SUCCESS, 4437986
+get_medals: SUCCESS, 5098029
+get_strength: FAILURE
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+get_medals: INVALID_INPUT
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+get_medals: FAILURE
+get_medals: FAILURE
+add_contestant: SUCCESS
+get_strength: SUCCESS, 5699884
+get_medals: SUCCESS, 8038718
+add_country: SUCCESS
+get_strength: SUCCESS, 141397
+get_strength: SUCCESS, 3927416
+get_medals: SUCCESS, 4437986
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_country: SUCCESS
+get_strength: FAILURE
+get_medals: FAILURE
+get_medals: INVALID_INPUT
+get_strength: FAILURE
+get_medals: FAILURE
+get_strength: SUCCESS, 4031474
+add_country: SUCCESS
+get_medals: FAILURE
+get_strength: SUCCESS, 973055
+add_country: SUCCESS
+get_medals: FAILURE
+add_country: SUCCESS

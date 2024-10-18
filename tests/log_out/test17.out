@@ -1,0 +1,11 @@
+add_country: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+add_contestant: SUCCESS
+remove_country: FAILURE
+remove_contestant: SUCCESS
+remove_country: FAILURE
+remove_contestant: SUCCESS
+remove_country: FAILURE
+remove_contestant: SUCCESS
+remove_country: SUCCESS

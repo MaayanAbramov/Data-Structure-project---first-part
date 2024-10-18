@@ -1,0 +1,10 @@
+add_country: SUCCESS
+add_team: SUCCESS
+add_contestant: SUCCESS
+add_contestant_to_team: FAILURE
+remove_team: SUCCESS
+remove_contestant: SUCCESS
+remove_contestant_from_team: FAILURE
+remove_team: FAILURE
+remove_contestant: FAILURE
+remove_country: SUCCESS
